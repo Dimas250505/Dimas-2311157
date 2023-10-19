@@ -4,3 +4,5 @@ Penyiram tanaman otomatis adalah perangkat yang dirancang untuk memberikan penyi
 - Menghemat tenaga
 - Menghemat waktu
 - Konsisten dalam menyiram tanaman
+![Screenshot 2023-10-19 181102](https://github.com/Dimas250505/Dimas-2311157/assets/148370856/652a2d62-96ae-45b1-9cfc-1c00481faffd)
+![Screenshot 2023-10-19 181140](https://github.com/Dimas250505/Dimas-2311157/assets/148370856/d3d08b13-88f7-4abd-9f7c-2c7dd3ee8996)
